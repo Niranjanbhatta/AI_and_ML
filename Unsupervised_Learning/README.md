@@ -23,5 +23,5 @@ Unsupervised learning is a crucial machine learning technique where models learn
 <h2 align="center">✅ Projects Done</h2>
 <ul>
     <h4 align="center">Unsupervised Learning</h4>
-    <li><b>Anime Recommendation System</b> Working on this project</li>
+    <li><b>Anime Recommendation System:</b> Working on this project</li>
 </ul>
